@@ -89,7 +89,7 @@ By Etikle and skyzy
 
 A full system pairing NoisyMIS and shulker box loaders.
 
-- **What does it sort?** Sorts stackable items and unloads the contents of shulker boxes; each column or category (1-wide) can sort up to 54 item types. 32 categories; also sorts up to 64 item types into shulker boxes.
+- **What does it sort?** Sorts stackable items and unloads the contents of shulker boxes; each column or category (2-wide) can sort up to 54 item types. 32 categories; also sorts up to 64 item types into shulker boxes.
 - **Sorting speed:** ~hopper speed - almost 9000 items/hour.
 - **Size:** 29x21x49 - 17610 blocks.
 - **Extra features:** Chunkloader included. The shulker boxes partially filled can be called from the UI. There is a nether portal for player use and a pause lever.
