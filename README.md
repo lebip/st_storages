@@ -26,6 +26,16 @@ A barebones multi item sorter that sacrifices speed and advanced features for si
 
 <img width="2000" height="1897" alt="compact_categorizer_overview" src="https://github.com/user-attachments/assets/fc2f8deb-3c5a-49f1-9d43-e400af767e9a" />
 
+<details>
+<summary>Picture gallery</summary>
+
+input:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d134cf1b-f766-479d-a208-e430055e6b0b" />
+UI:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ca4626c7-d6fd-4a55-a4f7-79763c6d157f" />
+
+</details>
+
 
 - **What does it sort?** Sorts only stackable items (no shulker box unloader) into columns of chests; each column or category (1-wide) can hold up to 23 or 50 item types depending on the version chosen.
 - **Sorting speed:** up to ~2/3 hopper speed - 6000 items/hour - speed depends on how many slices are built.
