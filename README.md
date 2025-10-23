@@ -152,11 +152,11 @@ A full storage system combining MIS v4.2 and single item type box sorting.
 
 by Inspector Talon, RaPsCaLlioN1138, Christone
 
-A complete hopper cart based storage, pairing 32 CartMIS categories with 216 *hybrid box loaders* (which start loading the assigned item into boxes only after filling a chest).
+A complete hopper cart based storage, pairing a hopper-cart based MIS with *hybrid box loaders* (which start loading the assigned item into boxes only after filling a chest).
 
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/9c18d345-7d06-4689-89a7-d2feb00a9cdd" />
 
-- **What does it sort?** Sorts stackable items and some non-stackable items as well. Each MIS category (1-wide) holds up to 50 different item types.
+- **What does it sort?** Sorts stackable items and some non-stackable items as well. Each of the 32 MIS category (1-wide) holds up to 50 different item types. There are 216 hybrid box loaders holding a single item type.
 - **Sorting speed:** Up to 16x hopper speed (144000 items/hour)
 - **Size:** 128x47x68 - 43100 blocks
 - **Extra features:** Unstackable sorting, chunkloaders, small status indicators panel.
