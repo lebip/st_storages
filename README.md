@@ -93,7 +93,7 @@ A full system pairing NoisyMIS and shulker box loaders.
 - **Sorting speed:** ~hopper speed - almost 9000 items/hour.
 - **Size:** 29x21x49 - 17610 blocks.
 - **Extra features:** Chunkloader included. The shulker boxes partially filled can be called from the UI. There is a nether portal for player use and a pause lever.
-- **testing and known issues:** No known issues. Tested by the creators. Noisy and laggy on low end hardware due to clocking pistons. The unsorted/overflow/unstackable slice should be cleared before it fills up completely as it lacks protection. The box calling function should be clicked only once and never when the system is active, as it can easily break if spammed or spit out loose items if the the slice is currently loading items.
+- **testing and known issues:** No known issues. Tested by the creators. Noisy and laggy on low end hardware due to clocking pistons. The unsorted/overflow/unstackable slice should be cleared before it fills up completely as it lacks protection. The box calling function should be clicked only once and never when the system is active, as it can easily break if spammed or spit out loose items if the the slice is currently loading them.
 - [**Original post (16/04/2025)**](https://discord.com/channels/748542142347083868/749137424684285992/1361920281634930718)
 - [**Download link (latest update)**](https://discord.com/channels/748542142347083868/1361920281634930718/1402919604078116884)
 - [**Help thread**](https://discord.com/channels/748542142347083868/1275462763791126558)
@@ -170,7 +170,7 @@ A complete and up to date main storage system coming in two versions: mini bulk 
 - **Sorting speed:** up to 16x hopper speed (144000 items/hour) unloading shulker boxes in parallel.
 - **Size:** 208x76x176 - 108957 blocks (full bulk, undecorated version)
 - **Extra features:** basic safety features, chunkloading, furnace array, restock station, yeeting station, small control panel and status indicators. The mini bulk version allows calling partially filled boxes from the UI.
-- **testing and known issues:** No known issues. Tested by the creators. Several issues were fixed after Archive Curator feedback. The box calling function should be clicked only once and never when the system is active, as it can easily break if spammed or spit out loose items if the the slice is currently loading items.
+- **testing and known issues:** No known issues. Tested by the creators. Several issues were fixed after Archive Curator feedback. The box calling function should be clicked only once and never when the system is active, as it can easily break if spammed or spit out loose items if the the slice is currently loading them.
 - [**Original post (16/07/2024)**](https://discord.com/channels/748542142347083868/749137424684285992/1262854684037611600)
 - [**Download link (latest update)**](https://www.mediafire.com/folder/vlg6rvssbth2q/YAMS)
 - [**Help thread**](https://discord.com/channels/748542142347083868/1182775318830907412)
