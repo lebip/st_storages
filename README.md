@@ -1,4 +1,4 @@
-<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/17788cfb-ae9a-42ed-a927-59320dc6ab50" /># List of complete main storages
+# List of complete main storages
 
 This is a list of the complete main storages that have been published in the Storage Tech Discord server. As a list, it's meant to be complete and informative, providing enough data to allow you to choose what storages try out or eventually build in your survival world. Storages posted outside said server, deemed outdated by the creators, nonfunctional, unfinished or requested not to be posted here won't be part of this list. If a working and finished system is missing, info is incomplete or outdated, let us know.
 
