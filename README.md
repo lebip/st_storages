@@ -101,7 +101,7 @@ By Etikle and skyzy
 
 A full system pairing NoisyMIS and shulker box loaders.
 
-![area_render_101_](https://github.com/user-attachments/assets/d14dd662-aeed-42ff-9248-9a41bc4072b2)
+<img width="1124" height="638" alt="504685292-d14dd662-aeed-42ff-9248-9a41bc4072b2" src="https://github.com/user-attachments/assets/48b65311-e3a6-47fa-9971-297e1a5ba557" />
 
 
 - **What does it sort?** Sorts stackable items and unloads the contents of shulker boxes; each column or category (2-wide) can sort up to 54 item types. 32 categories; also sorts up to 64 item types into shulker boxes.
