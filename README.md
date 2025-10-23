@@ -213,8 +213,7 @@ by jorvp, Obi
 
 A complete hybrid encoded storage system made for SciCraft SMP. Uses three hybrid halls, combining normal chest halls and shulker boxes restocked from a remote bulk storage.
 
-![Uploading image.png…]()
-
+<img width="2000" height="2000" alt="area_render_1_" src="https://github.com/user-attachments/assets/145849c6-10fc-4108-9230-7ba6b90557a5" />
 
 - **What does it sort?** Stackable items, boxes, full boxes, some non-stackable items. 384 bulk items, 768 chest hall items. No multi item sorter.
 - **Sorting speed:** up to 16x hopper speed (144000 items/hour) unloading shulker boxes in parallel.
