@@ -191,9 +191,3 @@ A complete hybrid encoded storage system made for SciCraft SMP. Uses three hybri
 - **Extra features:** many safety features, player call from remote bulk, unstackable sorting, yeeting station, crafting station, restock station, mass crafter with huge loader array, status indicators, suspicious lack of a potion brewer.
 - **testing and known issues:** Tested by the creators and used in SMP for over a year. No known issues.
 - [**Original post, download link and youtube video**](https://discord.com/channels/748542142347083868/1189010750606426132/1189012529284919296)
-
-
-- [**Original post**]()
-- [**Download link (latest update)**]()
-- [**Youtube video**]()
-- [**Help thread**]()
