@@ -24,7 +24,7 @@ By Inspector Talon and metamilo
 
 A barebones multi item sorter that sacrifices speed and advanced features for simplicity. Targeted to beginners.
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f722cadd-ab43-4dea-b7ff-c98ec8d1deb6" />
+<img width="2000" height="1897" alt="compact_categorizer_overview" src="https://github.com/user-attachments/assets/fc2f8deb-3c5a-49f1-9d43-e400af767e9a" />
 
 
 - **What does it sort?** Sorts only stackable items (no shulker box unloader) into columns of chests; each column or category (1-wide) can hold up to 23 or 50 item types depending on the version chosen.
