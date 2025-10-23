@@ -6,7 +6,7 @@ For the end user, a storage is often (but not always) a combination of *multi it
 
 # Notes / FAQ
 
-- **If you're a complete redstone beginner or simply overwhelmed by the amount of options, pick something from the multi item sorting section, _such as the compact categorizer_. If you want something more, try the smaller storages (YAMIS, J-MIS) in the multi item sorting section.** 
+- **If you're a complete redstone beginner or simply overwhelmed by the amount of options, pick something from the multi item sorting section, _such as the compact categorizer_. If you want something more, try the smaller storages (YAMIS, J-MIS) in the multi item sorting section.**
 - All storages accept any item even if not capable of sorting it, *only the renamed items used when building should never be put in the input*. 
 - **Assume that every redstone machine breaks when "unloaded" during operation. This means you should never leave the area without a chunkloader active, or close the world in single player. Once the storage is done sorting, it's safe to log off.**
 - All storage systems require some inventories to be correctly filled. When using litematica, you can press "i" to see what the content of a storage block is supposed to look like. Familiarize with the system you chose in the world download before building it in survival mode. Unless you're extremely careful and used to build redstone machines, expect to make mistakes when building. Use the schematic verifier function, triple check the inventories, don't pick a storage you won't be comfortable troubleshooting, and, before asking in the help threads, use the search function as your question was likely answered before.
@@ -15,6 +15,8 @@ For the end user, a storage is often (but not always) a combination of *multi it
 - None of these storage systems is guaranteed to work on paper/spigot/folia/whatever modified server. If you're playing on a public server that doesn't allow chunkloaders or periodically clears item entities, then said server is also very likely to disrupt normal redstone behaviour in the disingenuous attempt of reducing lag, and there's nothing we can do about that.
 - Lithium and Enhanced Block Entities are two very useful mods for fabric that reduce the lag storage systems cause, without altering game mechanics. The first optimizes the server side, reducing, for instance, static hopper lag. The latter improves the fps when there are a lot of chests to render.
 - A safe way of using stacked shulker boxes is carpet mod with the rule /carpet stackableShulkerBoxes=true and, since 1.21, the additional mod StackableShulkersFix. Other ways, such as using the function included in tweakeroo, can break storage systems.
+- **To link correctly the chunkloaders, you must build each portal in the nether in the x and z coordinates of the corresponding portal in the overworld divided by 8, and at the same y level or as close a possible to that. Observe the world downloads to have a practical example to follow.**
+
 
 # Multi Item Sorting
 
