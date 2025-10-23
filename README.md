@@ -43,6 +43,9 @@ By UnnervingS
 
 A full system using MIS v4.2.
 
+<img width="1870" height="1202" alt="image" src="https://github.com/user-attachments/assets/e2f4bc55-dcbe-4e0f-9887-5a5a8c41dadc" />
+
+
 - **What does it sort?** Sorts stackable items and unloads the contents of shulker boxes; each column or category (2-wide) can sort up to 54 item types. 24 categories.
 - **Sorting speed:** ~hopper speed - almost 9000 items/hour.
 - **Size:** 34x32x31 - 4639 blocks
@@ -56,6 +59,9 @@ A full system using MIS v4.2.
 by Scorpio
 
 A barebones multi item sorter using hopper carts.
+
+<img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/26608fdc-2aa0-4317-a980-087be627c7dc" />
+
 
 - **What does it sort?** Sorts only stackable items and unloads the content of shulker boxes. each MIS category (1-wide) can hold up to 50 item types.
 - **Sorting speed:** up to 2.4x hopper speed.
@@ -77,6 +83,9 @@ By JayRoi
 
 A full system pairing MIS v5.1 and hybrid shulker box loaders (which start loading the assigned item into boxes only after filling a chest).
 
+<img width="3840" height="3840" alt="image" src="https://github.com/user-attachments/assets/fc28b428-ec56-4ca0-af98-c70e1fe3995c" />
+
+
 - **What does it sort?** Sorts stackable items and unloads the contents of shulker boxes; each column or category (1-wide) can sort up to 54 item types. 32 categories; also sorts up to 32 item types into chests and shulker boxes.
 - **Sorting speed:** ~hopper speed - almost 9000 items/hour.
 - **Size:** 29x33x29 - 11499 blocks
@@ -91,6 +100,9 @@ A full system pairing MIS v5.1 and hybrid shulker box loaders (which start loadi
 By Etikle and skyzy
 
 A full system pairing NoisyMIS and shulker box loaders.
+
+![area_render_101_](https://github.com/user-attachments/assets/d14dd662-aeed-42ff-9248-9a41bc4072b2)
+
 
 - **What does it sort?** Sorts stackable items and unloads the contents of shulker boxes; each column or category (2-wide) can sort up to 54 item types. 32 categories; also sorts up to 64 item types into shulker boxes.
 - **Sorting speed:** ~hopper speed - almost 9000 items/hour.
@@ -107,19 +119,24 @@ by GanglesXIII
 
 A full storage system combining MIS v4.2 and single item type box sorting.
 
+<img width="2000" height="2000" alt="area_render_6_" src="https://github.com/user-attachments/assets/6c4551c9-c557-4a24-b1c7-e9db94d252b0" />
+
+
 - **What does it sort?** Sorts stackable items and unloads the contents of shulker boxes; each column or category (1-wide) can sort up to 54 item types; also sorts up to 54 item types into shulker boxes; if a secondary input is added, can sort full boxes without unloading them. Sorts also some non-stackable items.
 - **Sorting speed:** up to 9x hopper speed under optimal conditions, ~1x hopper speed on average.
 - **Size:** 57x86x84 - 34515 blocks (decorated version).
 - **Extra features:** Chunkloaders and unstackable sorter included. Safety features
 - **testing and known issues:** Unreliable unstackable sorter. A high number of MIS 4.2 slices in use can be laggy on low end hardware due to clocked dust lines. The bulk section stores partially filled boxes, as chosen by the creator to not make any item inaccessible. If the overflow section for unstackables fills up completely, items are dropped into lava. The pleasure of doing so is left to the user in case of overflow from bulk/MIS. No protection if the unsorted items section completely fills up.
-- [**Original post (28/01/2023)**](https://discord.com/channels/748542142347083868/749137424684285992/1068739913178157076)
-- [**Download link (latest update)**](https://discord.com/channels/748542142347083868/833152072618606652/1080307180076544020). The post includes a link to a youtube video and a help thread.
+- [**Archival post**](https://discord.com/channels/748542142347083868/833152072618606652/1080307180076544020). The post includes a link to a youtube video and a help thread.
 
 ## [1.21+] XianyuMIS v2
 
 By siderXD, Capybruh
 
 A full storage system combining single item type box sorting and a hopper cart based multi item sorter.
+
+<img width="1500" height="1500" alt="image" src="https://github.com/user-attachments/assets/4febab3d-49e8-4e79-b765-269e61007877" />
+
 
 - **What does it sort?** Sorts stackable items and unloads the contents of shulker boxes; each column or category (1-wide) can sort up to 50 item types. Up to 41 item types are sorted into shulker boxes. If a secondary input is added, can sort full boxes without unloading them. Sorts also some non-stackable items.
 - **Sorting speed:** up to 9,7x hopper speed under optimal conditions, averaging at 4x hopper speed.
@@ -135,6 +152,8 @@ A full storage system combining single item type box sorting and a hopper cart b
 by Inspector Talon, RaPsCaLlioN1138, Christone
 
 A complete hopper cart based storage, pairing 32 CartMIS categories with 216 *hybrid box loaders* (which start loading the assigned item into boxes only after filling a chest).
+
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/9c18d345-7d06-4689-89a7-d2feb00a9cdd" />
 
 - **What does it sort?** Sorts stackable items and some non-stackable items as well. Each MIS category (1-wide) holds up to 50 different item types.
 - **Sorting speed:** Up to 16x hopper speed (144000 items/hour)
@@ -157,6 +176,9 @@ by Krebs
 
 A complete main storage system originarily made for Ingenium SMP
 
+<img width="2048" height="2048" alt="image" src="https://github.com/user-attachments/assets/c55b1008-54c1-4ecc-aead-c7910a6916e1" />
+
+
 - **What does it sort?** Accepts boxes and items. If a secondary input is added, is capable of sorting full boxes without unloading them. 544 chest hall items, 90 bulk items, 10 MIS categories holding up to 54 item types each.
 - **Sorting speed:** up to 8x hopper speed - (72000 items/hour) unloading shulker boxes in parallel.
 - **Size:** 114x101x109 - 93156 blocks
@@ -168,6 +190,9 @@ A complete main storage system originarily made for Ingenium SMP
 by Etikle, basil, skyzy
 
 A complete and up to date main storage system coming in two versions: mini bulk and full bulk.
+
+<img width="2000" height="2000" alt="area_render_5_" src="https://github.com/user-attachments/assets/7edc565a-d644-48e0-a5e2-b9ef6008bb63" />
+
 
 - **What does it sort?** Accepts boxes and items, depending on the version used is capable of sorting full boxes without unloading them. 640 chest hall items, 128 bulk items, 10 MIS categories holding up to 54 item types each.
 - **Sorting speed:** up to 16x hopper speed (144000 items/hour) unloading shulker boxes in parallel.
@@ -187,6 +212,9 @@ This section contains storage system that are unique and don't fall in either of
 by jorvp, Obi
 
 A complete hybrid encoded storage system made for SciCraft SMP. Uses three hybrid halls, combining normal chest halls and shulker boxes restocked from a remote bulk storage.
+
+![Uploading image.png…]()
+
 
 - **What does it sort?** Stackable items, boxes, full boxes, some non-stackable items. 384 bulk items, 768 chest hall items. No multi item sorter.
 - **Sorting speed:** up to 16x hopper speed (144000 items/hour) unloading shulker boxes in parallel.
