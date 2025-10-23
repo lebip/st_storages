@@ -1,4 +1,4 @@
-# List of complete main storages
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/17788cfb-ae9a-42ed-a927-59320dc6ab50" /># List of complete main storages
 
 This is a list of the complete main storages that have been published in the Storage Tech Discord server. As a list, it's meant to be complete and informative, providing enough data to allow you to choose what storages try out or eventually build in your survival world. Storages posted outside said server, deemed outdated by the creators, nonfunctional, unfinished or requested not to be posted here won't be part of this list. If a working and finished system is missing, info is incomplete or outdated, let us know.
 
@@ -27,7 +27,7 @@ A barebones multi item sorter that sacrifices speed and advanced features for si
 <img width="2000" height="1897" alt="compact_categorizer_overview" src="https://github.com/user-attachments/assets/fc2f8deb-3c5a-49f1-9d43-e400af767e9a" />
 
 <details>
-<summary>Picture gallery</summary>
+<summary>Picture gallery - click to expand</summary>
 
 input:
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d134cf1b-f766-479d-a208-e430055e6b0b" />
@@ -95,6 +95,17 @@ A full system pairing MIS v5.1 and hybrid shulker box loaders (which start loadi
 
 <img width="3840" height="3840" alt="image" src="https://github.com/user-attachments/assets/fc28b428-ec56-4ca0-af98-c70e1fe3995c" />
 
+<details>
+<summary>Picture gallery - click to expand</summary>
+
+input:
+<img width="1920" height="1020" alt="2025-10-23_19 29 27" src="https://github.com/user-attachments/assets/51f46182-ba7f-42e4-af54-ced4d086c3eb" />
+
+UI:
+<img width="1920" height="1020" alt="2025-10-23_19 29 15" src="https://github.com/user-attachments/assets/57a3bc3b-e41a-43fe-835b-35c875441d34" />
+
+
+</details>
 
 - **What does it sort?** Sorts stackable items and unloads the contents of shulker boxes; each column or category (1-wide) can sort up to 54 item types. 32 categories; also sorts up to 32 item types into chests and shulker boxes.
 - **Sorting speed:** ~hopper speed - almost 9000 items/hour.
@@ -112,6 +123,20 @@ By Etikle and skyzy
 A full system pairing NoisyMIS and shulker box loaders.
 
 <img width="1124" height="638" alt="504685292-d14dd662-aeed-42ff-9248-9a41bc4072b2" src="https://github.com/user-attachments/assets/48b65311-e3a6-47fa-9971-297e1a5ba557" />
+
+<details>
+<summary>Picture gallery - click to expand</summary>
+
+input:
+<img width="1920" height="1020" alt="2025-10-23_19 31 46" src="https://github.com/user-attachments/assets/4a00c8b1-1f5f-4d61-8a4a-614318efd82e" />
+
+UI:
+<img width="1920" height="1020" alt="2025-10-23_19 31 57" src="https://github.com/user-attachments/assets/2cfb7feb-2dc8-4605-bad3-1882feafefdd" />
+<img width="1920" height="1020" alt="2025-10-23_19 32 08" src="https://github.com/user-attachments/assets/2f1349ad-60a7-4052-ad11-7308e24d643b" />
+
+
+
+</details>
 
 
 - **What does it sort?** Sorts stackable items and unloads the contents of shulker boxes; each column or category (2-wide) can sort up to 54 item types. 32 categories; also sorts up to 64 item types into shulker boxes.
@@ -131,6 +156,20 @@ A full storage system combining single item type box sorting and a hopper cart b
 
 <img width="1414" height="1111" alt="504685686-4febab3d-49e8-4e79-b765-269e61007877" src="https://github.com/user-attachments/assets/1ff9fdd5-3fc5-4b64-bc43-5d0ecd869337" />
 
+<details>
+<summary>Picture gallery - click to expand</summary>
+
+input:
+<img width="1920" height="1020" alt="2025-10-23_19 33 33" src="https://github.com/user-attachments/assets/a14b7092-6213-49ef-876f-6df145f04889" />
+
+UI:
+<img width="1920" height="1020" alt="2025-10-23_19 33 17" src="https://github.com/user-attachments/assets/9ed9cb46-a39d-4322-af50-b13aa8411f8e" />
+<img width="1920" height="1020" alt="2025-10-23_19 33 52" src="https://github.com/user-attachments/assets/f449eedd-b9ee-45a7-8b93-ffdc9a777d8d" />
+
+
+
+</details>
+
 
 - **What does it sort?** Sorts stackable items and unloads the contents of shulker boxes; each column or category (1-wide) can sort up to 50 item types. Up to 41 item types are sorted into shulker boxes. If a secondary input is added, can sort full boxes without unloading them. Sorts also some non-stackable items.
 - **Sorting speed:** up to 9,7x hopper speed under optimal conditions, averaging at 4x hopper speed.
@@ -149,6 +188,21 @@ A full storage system combining MIS v4.2 and single item type box sorting.
 
 <img width="1741" height="1100" alt="area_render_6_" src="https://github.com/user-attachments/assets/330f8a64-eefb-4f6b-925e-311145fe425f" />
 
+<details>
+<summary>Picture gallery - click to expand</summary>
+
+input:
+<img width="1920" height="1020" alt="2025-10-23_19 38 15" src="https://github.com/user-attachments/assets/96c644d7-8582-47db-b7a2-5868793ca18e" />
+
+UI:
+<img width="1920" height="1020" alt="2025-10-23_19 38 40" src="https://github.com/user-attachments/assets/4694232c-3502-43e9-9c72-a0886f59af32" />
+<img width="1920" height="1020" alt="2025-10-23_19 38 47" src="https://github.com/user-attachments/assets/fb737829-d125-48fb-8b08-4a7941e30f01" />
+<img width="1920" height="1020" alt="2025-10-23_19 39 01" src="https://github.com/user-attachments/assets/571b892a-7caa-44a2-8e08-66ddc2f60916" />
+
+
+
+</details>
+
 
 - **What does it sort?** Sorts stackable items and unloads the contents of shulker boxes; each column or category (1-wide) can sort up to 54 item types; also sorts up to 54 item types into shulker boxes; if a secondary input is added, can sort full boxes without unloading them. Sorts also some non-stackable items.
 - **Sorting speed:** up to 9x hopper speed under optimal conditions, ~1x hopper speed on average.
@@ -165,6 +219,22 @@ by Inspector Talon, RaPsCaLlioN1138, Christone
 A complete hopper cart based storage, pairing a hopper-cart based MIS with *hybrid box loaders* (which start loading the assigned item into boxes only after filling a chest).
 
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/9c18d345-7d06-4689-89a7-d2feb00a9cdd" />
+
+<details>
+<summary>Picture gallery - click to expand</summary>
+
+input:
+<img width="1920" height="1020" alt="2025-10-23_19 36 06" src="https://github.com/user-attachments/assets/53be6ab7-8310-4afa-a050-e94f109bd295" />
+
+
+UI:
+<img width="1920" height="1020" alt="2025-10-23_19 36 14" src="https://github.com/user-attachments/assets/79de7652-4d39-453c-a90d-805ac9fdb6ef" />
+<img width="1920" height="1020" alt="2025-10-23_19 36 22" src="https://github.com/user-attachments/assets/6639545b-81b2-4ecc-b4e1-c4fd0d2ce245" />
+<img width="1920" height="1020" alt="2025-10-23_19 36 28" src="https://github.com/user-attachments/assets/f1d701dc-7b2b-4026-aed4-91d1c3d9f0ff" />
+
+
+
+</details>
 
 - **What does it sort?** Sorts stackable items and some non-stackable items as well. Each of the 32 MIS category (1-wide) holds up to 50 different item types. There are 216 hybrid box loaders holding a single item type.
 - **Sorting speed:** Up to 16x hopper speed (144000 items/hour)
@@ -189,6 +259,21 @@ A complete main storage system originarily made for Ingenium SMP
 
 <img width="2048" height="2048" alt="image" src="https://github.com/user-attachments/assets/c55b1008-54c1-4ecc-aead-c7910a6916e1" />
 
+<details>
+<summary>Picture gallery - click to expand</summary>
+
+input:
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/fb05add9-3e1a-4447-986a-4bfaf3d70b76" />
+
+UI:
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/d9eae6e1-9163-4785-a2e5-d10e3cbb6294" />
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/1c35cd44-f6b0-4f6e-8b1a-1ab3a2c15f89" />
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/b4c621c9-4b99-4165-be89-a957c62a0b0e" />
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/53f6ff0c-c63b-439d-a426-f9e4d2b82c78" />
+
+
+</details>
+
 
 - **What does it sort?** Accepts boxes and items. If a secondary input is added, is capable of sorting full boxes without unloading them. 544 chest hall items, 90 bulk items, 10 MIS categories holding up to 54 item types each.
 - **Sorting speed:** up to 8x hopper speed - (72000 items/hour) unloading shulker boxes in parallel.
@@ -203,6 +288,22 @@ by Etikle, basil, skyzy
 A complete and up to date main storage system coming in two versions: mini bulk and full bulk.
 
 <img width="2000" height="2000" alt="area_render_5_" src="https://github.com/user-attachments/assets/7edc565a-d644-48e0-a5e2-b9ef6008bb63" />
+
+<details>
+<summary>Picture gallery - click to expand</summary>
+
+input:
+<img width="1920" height="1020" alt="2025-10-23_19 41 38" src="https://github.com/user-attachments/assets/d260bd2c-69ed-4735-ba3d-821877fa6b6d" />
+
+UI:
+<img width="1920" height="1020" alt="2025-10-23_19 41 15" src="https://github.com/user-attachments/assets/6ce06784-dfc3-488a-a32b-2a343a258819" />
+<img width="1920" height="1020" alt="2025-10-23_19 41 51" src="https://github.com/user-attachments/assets/021da9f6-f4e7-498a-b8e2-da87d18303b0" />
+<img width="1920" height="1020" alt="2025-10-23_19 41 57" src="https://github.com/user-attachments/assets/863b4f69-b94d-44d4-b6d6-0136a0876d3d" />
+<img width="1920" height="1020" alt="2025-10-23_19 42 02" src="https://github.com/user-attachments/assets/f0b120a2-91e3-4fc0-bbd5-7b159e783303" />
+<img width="1920" height="1020" alt="2025-10-23_19 41 04" src="https://github.com/user-attachments/assets/597a9009-617e-43a7-bcf4-5b02c62c5525" />
+
+
+</details>
 
 
 - **What does it sort?** Accepts boxes and items, depending on the version used is capable of sorting full boxes without unloading them. 640 chest hall items, 128 bulk items, 10 MIS categories holding up to 54 item types each.
@@ -226,6 +327,24 @@ A complete hybrid encoded storage system made for SciCraft SMP. Uses three hybri
 
 <img width="1820" height="899" alt="area_render_1_" src="https://github.com/user-attachments/assets/5c471cec-2918-4980-a47e-e16d5b611da7" />
 
+<details>
+<summary>Picture gallery - click to expand</summary>
+
+input:
+<img width="1920" height="1020" alt="2025-10-23_19 51 02" src="https://github.com/user-attachments/assets/b184baf8-2bcc-4f51-acf9-20857a192130" />
+
+UI:
+<img width="1920" height="1020" alt="2025-10-23_19 51 10" src="https://github.com/user-attachments/assets/390c4ee8-7307-4ca0-bbea-4da272874b47" />
+<img width="1920" height="1020" alt="2025-10-23_19 51 16" src="https://github.com/user-attachments/assets/1d29b033-86e0-4cce-b505-30a24f85b03c" />
+<img width="1920" height="1020" alt="2025-10-23_19 51 23" src="https://github.com/user-attachments/assets/9c48c0fe-2cbe-4b99-afdf-5feb685673a3" />
+<img width="1920" height="1020" alt="2025-10-23_19 51 45" src="https://github.com/user-attachments/assets/6b3db113-80da-4756-986e-12a2710203f1" />
+<img width="1920" height="1020" alt="2025-10-23_19 51 56" src="https://github.com/user-attachments/assets/c232b319-590a-4ef3-bcc0-20ffe0295c51" />
+<img width="1920" height="1020" alt="2025-10-23_19 52 10" src="https://github.com/user-attachments/assets/99567d62-3c99-488e-87df-59d169563f2e" />
+<img width="1920" height="1020" alt="2025-10-23_19 52 24" src="https://github.com/user-attachments/assets/885f4bb0-14fa-43cd-b0a1-c5597a6580ac" />
+
+
+
+</details>
 
 - **What does it sort?** Stackable items, boxes, full boxes, some non-stackable items. 384 bulk items, 768 chest hall items. No multi item sorter.
 - **Sorting speed:** up to 16x hopper speed (144000 items/hour) unloading shulker boxes in parallel.
