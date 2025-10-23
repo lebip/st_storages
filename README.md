@@ -60,7 +60,7 @@ by Scorpio
 
 A barebones multi item sorter using hopper carts.
 
-<img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/26608fdc-2aa0-4317-a980-087be627c7dc" />
+<img width="870" height="501" alt="504684233-26608fdc-2aa0-4317-a980-087be627c7dc" src="https://github.com/user-attachments/assets/519b73f2-1e9c-4d21-8dad-bbbae61d22d6" />
 
 
 - **What does it sort?** Sorts only stackable items and unloads the content of shulker boxes. each MIS category (1-wide) can hold up to 50 item types.
