@@ -6,7 +6,7 @@ For the end user, a storage is often (but not always) a combination of *multi it
 
 # Notes / FAQ
 
-- **If you're a complete redstone beginner or simply overwhelmed by the amount of options, pick something from the multi item sorting section, such as the compact categorizer.** 
+- **If you're a complete redstone beginner or simply overwhelmed by the amount of options, pick something from the multi item sorting section, _such as the compact categorizer_. If you want something more, try the smaller storages (YAMIS, J-MIS) in the multi item sorting section.** 
 - All storages accept any item even if not capable of sorting it, *only the renamed items used when building should never be put in the input*. 
 - **Assume that every redstone machine breaks when "unloaded" during operation. This means you should never leave the area without a chunkloader active, or close the world in single player. Once the storage is done sorting, it's safe to log off.**
 - All storage systems require some inventories to be correctly filled. When using litematica, you can press "i" to see what the content of a storage block is supposed to look like. Familiarize with the system you chose in the world download before building it in survival mode. Unless you're extremely careful and used to build redstone machines, expect to make mistakes when building. Use the schematic verifier function, triple check the inventories, don't pick a storage you won't be comfortable troubleshooting, and, before asking in the help threads, use the search function as your question was likely answered before.
@@ -143,7 +143,7 @@ UI:
 - **Sorting speed:** ~hopper speed - almost 9000 items/hour.
 - **Size:** 29x21x49 - 17610 blocks.
 - **Extra features:** Chunkloader included. The shulker boxes partially filled can be called from the UI. There is a nether portal for player use and a pause lever.
-- **testing and known issues:** No known issues. Tested by the creators. Noisy and laggy on low end hardware due to clocking pistons. The unsorted/overflow/unstackable slice should be cleared before it fills up completely as it lacks protection. The box calling function should be clicked only once and never when the system is active, as it can easily break if spammed or spit out loose items if the the slice is currently loading them.
+- **testing and known issues:** No known issues. Tested by the creators. Noisy, and laggy on low end hardware due to clocking pistons. The unsorted/overflow/unstackable slice should be cleared before it fills up completely as it lacks protection. The box calling function should be clicked only once and never when the system is active, as it can easily break if spammed or spit out loose items if the the slice is currently loading them.
 - [**Original post (16/04/2025)**](https://discord.com/channels/748542142347083868/749137424684285992/1361920281634930718)
 - [**Download link (latest update)**](https://discord.com/channels/748542142347083868/1361920281634930718/1402919604078116884)
 - [**Help thread**](https://discord.com/channels/748542142347083868/1275462763791126558)
@@ -240,7 +240,7 @@ UI:
 - **Sorting speed:** Up to 16x hopper speed (144000 items/hour)
 - **Size:** 128x47x68 - 43100 blocks
 - **Extra features:** Unstackable sorting, chunkloaders, small status indicators panel.
-- **testing and known issues:** No known issues. Tested by the creators. Some rail placements can be tricky to build. The unsorted/overflow slice should be cleared before it fills up completely as it lacks protection.
+- **testing and known issues:** No known major issues. Tested by the creators. Some rail placements can be tricky to build. The unsorted/overflow slice should be cleared before it fills up completely as it lacks protection.
 - [**Original post (16/06/2024)**](https://discord.com/channels/748542142347083868/749137424684285992/1251974389088391259)
 - [**Download link (latest update)**](https://discord.com/channels/748542142347083868/1251974389088391259/1339736798930272266)
 - [**Youtube video**](https://www.youtube.com/watch?v=9eHcvMi7HUw)
@@ -249,7 +249,7 @@ UI:
 
 # Multi Item Sorting + Chest Halls + Bulk
 
-The storages in this section are usually scaled to the needs of technical minecraft servers or *very advanced* single player worlds.
+The storages in this section are usually scaled to the needs of technical minecraft servers.
 
 ## [1.17+] Krebs' Main Storage System
 
@@ -285,7 +285,7 @@ UI:
 ## [1.20+] Yams v2
 by Etikle, basil, skyzy
 
-A complete and up to date main storage system coming in two versions: mini bulk and full bulk.
+A complete and up to date main storage system coming in two versions: mini bulk (MB) and full bulk (FB).
 
 <img width="2000" height="2000" alt="area_render_5_" src="https://github.com/user-attachments/assets/7edc565a-d644-48e0-a5e2-b9ef6008bb63" />
 
@@ -310,7 +310,7 @@ UI:
 - **Sorting speed:** up to 16x hopper speed (144000 items/hour) unloading shulker boxes in parallel.
 - **Size:** 208x76x176 - 108957 blocks (full bulk, undecorated version)
 - **Extra features:** basic safety features, chunkloading, furnace array, restock station, yeeting station, small control panel and status indicators. The mini bulk version allows calling partially filled boxes from the UI.
-- **testing and known issues:** No known issues. Tested by the creators. Several issues were fixed after Archive Curator feedback. The box calling function should be clicked only once and never when the system is active, as it can easily break if spammed or spit out loose items if the the slice is currently loading them.
+- **testing and known issues:** No known major issues. Tested by the creators. Several issues were fixed after Archive Curator feedback. The box calling function should be clicked only once and never when the system is active, as it can easily break if spammed or spit out loose items if the the slice is currently loading them.
 - [**Original post (16/07/2024)**](https://discord.com/channels/748542142347083868/749137424684285992/1262854684037611600)
 - [**Download link (latest update)**](https://www.mediafire.com/folder/vlg6rvssbth2q/YAMS)
 - [**Help thread**](https://discord.com/channels/748542142347083868/1182775318830907412)
