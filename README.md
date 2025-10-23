@@ -113,6 +113,24 @@ A full system pairing NoisyMIS and shulker box loaders.
 - [**Download link (latest update)**](https://discord.com/channels/748542142347083868/1361920281634930718/1402919604078116884)
 - [**Help thread**](https://discord.com/channels/748542142347083868/1275462763791126558)
 
+## [1.21+] XianyuMIS v2
+
+By siderXD, Capybruh
+
+A full storage system combining single item type box sorting and a hopper cart based multi item sorter.
+
+<img width="1414" height="1111" alt="504685686-4febab3d-49e8-4e79-b765-269e61007877" src="https://github.com/user-attachments/assets/1ff9fdd5-3fc5-4b64-bc43-5d0ecd869337" />
+
+
+- **What does it sort?** Sorts stackable items and unloads the contents of shulker boxes; each column or category (1-wide) can sort up to 50 item types. Up to 41 item types are sorted into shulker boxes. If a secondary input is added, can sort full boxes without unloading them. Sorts also some non-stackable items.
+- **Sorting speed:** up to 9,7x hopper speed under optimal conditions, averaging at 4x hopper speed.
+- **Size:** 66x39x58 - 40679 blocks (decorated version); 47x28x45 - 15052 blocks (without decoration)
+- **Extra features:** Chunkloaders and unstackable sorter included.
+- **testing and known issues:** No known issues. Tested by the creators. Both the box loaders for the bulk section and the MIS reset item lifetime using hopper carts. The overflow section should be emptied before it fills completely otherwise items and boxes can despawn, but even in that case the system doesn't break.
+- [**Original post (16/10/2025)**](https://discord.com/channels/748542142347083868/749137424684285992/1428167044087677050)
+- [**Download link (latest update)**](https://discord.com/channels/748542142347083868/1428167044087677050/1428230013102329968)
+- [**Help thread**](https://discord.com/channels/748542142347083868/1430084216292511784)
+
 ## [1.19+] G-MIS v2.1
 
 by GanglesXIII
@@ -129,23 +147,6 @@ A full storage system combining MIS v4.2 and single item type box sorting.
 - **testing and known issues:** Unreliable unstackable sorter. A high number of MIS 4.2 slices in use can be laggy on low end hardware due to clocked dust lines. The bulk section stores partially filled boxes, as chosen by the creator to not make any item inaccessible. If the overflow section for unstackables fills up completely, items are dropped into lava. The pleasure of doing so is left to the user in case of overflow from bulk/MIS. No protection if the unsorted items section completely fills up.
 - [**Archival post**](https://discord.com/channels/748542142347083868/833152072618606652/1080307180076544020). The post includes a link to a youtube video and a help thread.
 
-## [1.21+] XianyuMIS v2
-
-By siderXD, Capybruh
-
-A full storage system combining single item type box sorting and a hopper cart based multi item sorter.
-
-<img width="1500" height="1500" alt="image" src="https://github.com/user-attachments/assets/4febab3d-49e8-4e79-b765-269e61007877" />
-
-
-- **What does it sort?** Sorts stackable items and unloads the contents of shulker boxes; each column or category (1-wide) can sort up to 50 item types. Up to 41 item types are sorted into shulker boxes. If a secondary input is added, can sort full boxes without unloading them. Sorts also some non-stackable items.
-- **Sorting speed:** up to 9,7x hopper speed under optimal conditions, averaging at 4x hopper speed.
-- **Size:** 66x39x58 - 40679 blocks (decorated version); 47x28x45 - 15052 blocks (without decoration)
-- **Extra features:** Chunkloaders and unstackable sorter included.
-- **testing and known issues:** No known issues. Tested by the creators. Both the box loaders for the bulk section and the MIS reset item lifetime using hopper carts. The overflow section should be emptied before it fills completely otherwise items and boxes can despawn, but even in that case the system doesn't break.
-- [**Original post (16/10/2025)**](https://discord.com/channels/748542142347083868/749137424684285992/1428167044087677050)
-- [**Download link (latest update)**](https://discord.com/channels/748542142347083868/1428167044087677050/1428230013102329968)
-- [**Help thread**](https://discord.com/channels/748542142347083868/1430084216292511784)
 
 ## [1.19+] CartMIS v3
 
