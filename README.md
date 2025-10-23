@@ -193,16 +193,6 @@ A complete hybrid encoded storage system made for SciCraft SMP. Uses three hybri
 - [**Original post, download link and youtube video**](https://discord.com/channels/748542142347083868/1189010750606426132/1189012529284919296)
 
 
-
-
-
-# template
-
-- **What does it sort?** 
-- **Sorting speed:** 
-- **Size:** 
-- **Extra features:** 
-- **testing and known issues:** 
 - [**Original post**]()
 - [**Download link (latest update)**]()
 - [**Youtube video**]()
