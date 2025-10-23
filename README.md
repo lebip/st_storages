@@ -28,7 +28,7 @@ A barebones multi item sorter that sacrifices speed and advanced features for si
 - **Sorting speed:** up to ~2/3 hopper speed - 6000 items/hour - speed depends on how many slices are built.
 - **Size:** 17x18x27 - 2236 blocks (smaller version) 
 - **Extra features:** none, it just sorts.
-- **testing and known issues:** the world download has [some artifacts](https://discord.com/channels/748542142347083868/1151464188787576853/1353796836342632579)) . Tested by the creators. No chunkloading included.
+- **testing and known issues:** the world download has [some artifacts](https://discord.com/channels/748542142347083868/1151464188787576853/1353796836342632579) . Tested by the creators. No chunkloading included.
 - [**Original post (13/09/2023)**](https://discord.com/channels/748542142347083868/749137424684285992/1151464188787576853)
 - [**Download link (latest update)**](https://discord.com/channels/748542142347083868/1151464188787576853/1342278082383581245)
 - [**Youtube video**](https://www.youtube.com/watch?v=DnrAoKd8ZOc)
