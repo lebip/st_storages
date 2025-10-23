@@ -24,6 +24,9 @@ By Inspector Talon and metamilo
 
 A barebones multi item sorter that sacrifices speed and advanced features for simplicity. Targeted to beginners.
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f722cadd-ab43-4dea-b7ff-c98ec8d1deb6" />
+
+
 - **What does it sort?** Sorts only stackable items (no shulker box unloader) into columns of chests; each column or category (1-wide) can hold up to 23 or 50 item types depending on the version chosen.
 - **Sorting speed:** up to ~2/3 hopper speed - 6000 items/hour - speed depends on how many slices are built.
 - **Size:** 17x18x27 - 2236 blocks (smaller version) 
