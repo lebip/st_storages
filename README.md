@@ -38,6 +38,30 @@ UI:
 
 </details>
 
+<details>
+<summary>How to set the filters - click to expand</summary>
+
+The filters of this system are this chests, also called whitelister. Depending on the version chosen, barrels are used in the same way
+<img width="1920" height="1020" alt="2025-10-25_18 03 12" src="https://github.com/user-attachments/assets/dde16924-c9ee-4d6e-8a62-30d025af8bea" />
+
+by default, the chest has three unstackables/full stacks and 55 64-stackable renamed items (which must never be put in the input)
+<img width="1920" height="1020" alt="2025-10-25_18 04 25" src="https://github.com/user-attachments/assets/81c67bf4-fcc6-4592-81c8-fc6bcd83c7c4" />
+
+To add an item, place one sample in the chest and remove one of the renamed items:
+<img width="1920" height="1020" alt="2025-10-25_18 04 30" src="https://github.com/user-attachments/assets/8ff0615f-3030-45c3-a48d-696c990aec2f" />
+
+To add items that only stack up to 16, remove 4 renamed items for each 16-stackable added to the chest:
+<img width="1920" height="1020" alt="2025-10-25_18 04 37" src="https://github.com/user-attachments/assets/89fc11a6-85a5-4cd0-9248-9b9201480f9e" />
+
+The procedure for barrells is the same:
+<img width="1920" height="1020" alt="2025-10-25_18 06 27" src="https://github.com/user-attachments/assets/4ae4eb2b-3b55-46b2-993a-bfe9f9f3a76e" />
+
+Remember to never add the same item to multiple slices.
+
+The hopper cart needs to be filled with 4 non stackable items, leaving the last slot empty:
+<img width="1920" height="1020" alt="2025-10-25_18 05 27" src="https://github.com/user-attachments/assets/920de641-0c9f-467a-b2f6-59d17a3bb178" />
+
+</details>
 
 - **What does it sort?** Sorts only stackable items (no shulker box unloader) into columns of chests; each column or category (1-wide) can hold up to 23 or 50 item types depending on the version chosen.
 - **Sorting speed:** up to ~2/3 hopper speed - 6000 items/hour - speed depends on how many slices are built.
