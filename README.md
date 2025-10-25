@@ -41,7 +41,7 @@ UI:
 <details>
 <summary>How to set the filters - click to expand</summary>
 
-The filters of this system are this chests, also called whitelister. Depending on the version chosen, barrels are used in the same way:
+The filters of this system are these chests, also called whitelister. Depending on the version chosen, barrels are used in the same way:
 
 <img width="1920" height="1020" alt="2025-10-25_18 03 12" src="https://github.com/user-attachments/assets/dde16924-c9ee-4d6e-8a62-30d025af8bea" />
 
@@ -93,7 +93,7 @@ A full system using MIS v4.2.
 <details>
 <summary>How to set the filters - click to expand</summary>
 
-The filters of this system are this chests:
+The filters of this system are these chests:
 
 <img width="1920" height="1020" alt="2025-10-25_18 31 05" src="https://github.com/user-attachments/assets/0602ee7c-0caf-483b-b5cb-0d419c632b5c" />
 
