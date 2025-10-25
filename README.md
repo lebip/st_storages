@@ -125,6 +125,33 @@ A barebones multi item sorter using hopper carts.
 
 <img width="870" height="501" alt="504684233-26608fdc-2aa0-4317-a980-087be627c7dc" src="https://github.com/user-attachments/assets/519b73f2-1e9c-4d21-8dad-bbbae61d22d6" />
 
+<details>
+<summary>How to set the filters - click to expand</summary>
+
+The filters of this system are these chests, also called whitelisters.
+
+<img width="1920" height="1020" alt="2025-10-25_18 42 21" src="https://github.com/user-attachments/assets/51ec84a4-23dc-4d62-83dc-e7d0350cc6af" />
+
+
+by default, the chest has three unstackables/full stacks and 55 64-stackable renamed items (which must never be put in the input):
+
+<img width="511" height="408" alt="2025-10-25_18 04 25" src="https://github.com/user-attachments/assets/c369ee97-7be0-4769-a53e-f10aef737981" />
+
+
+To add an item, place one sample in the chest and remove one of the renamed items:
+
+<img width="519" height="399" alt="2025-10-25_18 04 30" src="https://github.com/user-attachments/assets/e5a156de-d5fd-433f-ba6d-24107f665231" />
+
+
+To add items that only stack up to 16, remove 4 renamed items for each 16-stackable added to the chest:
+
+<img width="518" height="411" alt="2025-10-25_18 04 37" src="https://github.com/user-attachments/assets/dd4eefe8-a2ae-48e0-a5c8-ef5147a37dd3" />
+
+The renamed items and the full stacks/unstackable items can be placed in different ways, there's no difference as long as the number is correct:
+
+<img width="519" height="411" alt="2025-10-25_18 44 48" src="https://github.com/user-attachments/assets/55c11e53-8531-4646-8a02-fe996d84c8a1" /> <img width="519" height="411" alt="2025-10-25_18 45 59" src="https://github.com/user-attachments/assets/9ff76d98-cbe2-4769-b0af-62d27b6a5c2c" /> <img width="514" height="405" alt="2025-10-25_18 45 50" src="https://github.com/user-attachments/assets/de65f669-e044-4f38-9c5d-6c3cd6052f98" />
+
+</details>
 
 - **What does it sort?** Sorts only stackable items and unloads the content of shulker boxes. each MIS category (1-wide) can hold up to 50 item types.
 - **Sorting speed:** up to 2.4x hopper speed.
