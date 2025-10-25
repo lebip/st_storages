@@ -41,22 +41,28 @@ UI:
 <details>
 <summary>How to set the filters - click to expand</summary>
 
-The filters of this system are this chests, also called whitelister. Depending on the version chosen, barrels are used in the same way
+The filters of this system are this chests, also called whitelister. Depending on the version chosen, barrels are used in the same way:
+
 <img width="1920" height="1020" alt="2025-10-25_18 03 12" src="https://github.com/user-attachments/assets/dde16924-c9ee-4d6e-8a62-30d025af8bea" />
 
-by default, the chest has three unstackables/full stacks and 55 64-stackable renamed items (which must never be put in the input)
+
+by default, the chest has three unstackables/full stacks and 55 64-stackable renamed items (which must never be put in the input):
+
 <img width="511" height="408" alt="2025-10-25_18 04 25" src="https://github.com/user-attachments/assets/c369ee97-7be0-4769-a53e-f10aef737981" />
 
 
 To add an item, place one sample in the chest and remove one of the renamed items:
+
 <img width="519" height="399" alt="2025-10-25_18 04 30" src="https://github.com/user-attachments/assets/e5a156de-d5fd-433f-ba6d-24107f665231" />
 
 
 To add items that only stack up to 16, remove 4 renamed items for each 16-stackable added to the chest:
+
 <img width="518" height="411" alt="2025-10-25_18 04 37" src="https://github.com/user-attachments/assets/dd4eefe8-a2ae-48e0-a5c8-ef5147a37dd3" />
 
 
 The procedure for barrells is the same:
+
 <img width="521" height="255" alt="2025-10-25_18 06 27" src="https://github.com/user-attachments/assets/4b0438da-6e27-4fe9-838b-e8201537695c" />
 
 **Remember to never add the same item to multiple slices.**
