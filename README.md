@@ -45,21 +45,24 @@ The filters of this system are this chests, also called whitelister. Depending o
 <img width="1920" height="1020" alt="2025-10-25_18 03 12" src="https://github.com/user-attachments/assets/dde16924-c9ee-4d6e-8a62-30d025af8bea" />
 
 by default, the chest has three unstackables/full stacks and 55 64-stackable renamed items (which must never be put in the input)
-<img width="1920" height="1020" alt="2025-10-25_18 04 25" src="https://github.com/user-attachments/assets/81c67bf4-fcc6-4592-81c8-fc6bcd83c7c4" />
+<img width="511" height="408" alt="2025-10-25_18 04 25" src="https://github.com/user-attachments/assets/c369ee97-7be0-4769-a53e-f10aef737981" />
+
 
 To add an item, place one sample in the chest and remove one of the renamed items:
-<img width="1920" height="1020" alt="2025-10-25_18 04 30" src="https://github.com/user-attachments/assets/8ff0615f-3030-45c3-a48d-696c990aec2f" />
+<img width="519" height="399" alt="2025-10-25_18 04 30" src="https://github.com/user-attachments/assets/e5a156de-d5fd-433f-ba6d-24107f665231" />
+
 
 To add items that only stack up to 16, remove 4 renamed items for each 16-stackable added to the chest:
-<img width="1920" height="1020" alt="2025-10-25_18 04 37" src="https://github.com/user-attachments/assets/89fc11a6-85a5-4cd0-9248-9b9201480f9e" />
+<img width="518" height="411" alt="2025-10-25_18 04 37" src="https://github.com/user-attachments/assets/dd4eefe8-a2ae-48e0-a5c8-ef5147a37dd3" />
+
 
 The procedure for barrells is the same:
-<img width="1920" height="1020" alt="2025-10-25_18 06 27" src="https://github.com/user-attachments/assets/4ae4eb2b-3b55-46b2-993a-bfe9f9f3a76e" />
+<img width="521" height="255" alt="2025-10-25_18 06 27" src="https://github.com/user-attachments/assets/4b0438da-6e27-4fe9-838b-e8201537695c" />
 
-Remember to never add the same item to multiple slices.
+**Remember to never add the same item to multiple slices.**
 
 The hopper cart needs to be filled with 4 non stackable items, leaving the last slot empty:
-<img width="1920" height="1020" alt="2025-10-25_18 05 27" src="https://github.com/user-attachments/assets/920de641-0c9f-467a-b2f6-59d17a3bb178" />
+<img width="529" height="400" alt="2025-10-25_18 05 27" src="https://github.com/user-attachments/assets/710f545b-7864-4250-9e18-24cc97c2e83d" />
 
 </details>
 
