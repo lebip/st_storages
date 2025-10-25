@@ -388,7 +388,7 @@ UI:
 
 - **What does it sort?** Accepts boxes and items, depending on the version used is capable of sorting full boxes without unloading them. 640 chest hall items, 128 bulk items, 10 MIS categories holding up to 54 item types each.
 - **Sorting speed:** up to 16x hopper speed (144000 items/hour) unloading shulker boxes in parallel.
-- **Size:** 208x76x176 - 108957 blocks (full bulk, undecorated version)
+- **Size:** 108x75x114 - 78493 blocks (full bulk, undecorated version - not counting glass floor)
 - **Extra features:** basic safety features, chunkloading, furnace array, restock station, yeeting station, small control panel and status indicators. The mini bulk version allows calling partially filled boxes from the UI.
 - **testing and known issues:** No known major issues. Tested by the creators. Several issues were fixed after Archive Curator feedback. The box calling function should be clicked only once and never when the system is active, as it can easily break if spammed or spit out loose items if the the slice is currently loading them.
 - [**Original post (16/07/2024)**](https://discord.com/channels/748542142347083868/749137424684285992/1262854684037611600)
