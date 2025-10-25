@@ -90,6 +90,24 @@ A full system using MIS v4.2.
 
 <img width="1870" height="1202" alt="image" src="https://github.com/user-attachments/assets/e2f4bc55-dcbe-4e0f-9887-5a5a8c41dadc" />
 
+<details>
+<summary>How to set the filters - click to expand</summary>
+
+The filters of this system are this chests:
+
+<img width="1920" height="1020" alt="2025-10-25_18 31 05" src="https://github.com/user-attachments/assets/0602ee7c-0caf-483b-b5cb-0d419c632b5c" />
+
+
+
+by default, the chest is completely filled with either renamed blockers or unstackable items. To assign an item to the slice, replace one of the blockers with **two** samples of the item:
+
+<img width="517" height="418" alt="2025-10-25_18 31 23" src="https://github.com/user-attachments/assets/59ca2a55-2cc7-44fb-a1c4-d6e242b45001" />
+
+When filling the hopper below the filter chests, rememeber to use **different** items!
+<img width="516" height="393" alt="2025-10-25_18 31 35" src="https://github.com/user-attachments/assets/461c2c35-ca47-427c-832d-088781aa2a6a" />
+
+</details>
+
 
 - **What does it sort?** Sorts stackable items and unloads the contents of shulker boxes; each column or category (2-wide) can sort up to 54 item types. 24 categories.
 - **Sorting speed:** ~hopper speed - almost 9000 items/hour.
