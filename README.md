@@ -61,7 +61,7 @@ To add items that only stack up to 16, remove 4 renamed items for each 16-stacka
 <img width="518" height="411" alt="2025-10-25_18 04 37" src="https://github.com/user-attachments/assets/dd4eefe8-a2ae-48e0-a5c8-ef5147a37dd3" />
 
 
-The procedure for barrells is the same:
+The procedure for barrels is the same:
 
 <img width="521" height="255" alt="2025-10-25_18 06 27" src="https://github.com/user-attachments/assets/4b0438da-6e27-4fe9-838b-e8201537695c" />
 
