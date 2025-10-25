@@ -331,37 +331,6 @@ UI:
 
 The storages in this section are usually scaled to the needs of technical minecraft servers.
 
-## [1.17+] Krebs' Main Storage System
-
-by Krebs
-
-A complete main storage system originarily made for Ingenium SMP
-
-<img width="2048" height="2048" alt="image" src="https://github.com/user-attachments/assets/c55b1008-54c1-4ecc-aead-c7910a6916e1" />
-
-<details>
-<summary>Picture gallery - click to expand</summary>
-
-input:
-<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/fb05add9-3e1a-4447-986a-4bfaf3d70b76" />
-
-UI:
-<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/d9eae6e1-9163-4785-a2e5-d10e3cbb6294" />
-<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/1c35cd44-f6b0-4f6e-8b1a-1ab3a2c15f89" />
-<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/b4c621c9-4b99-4165-be89-a957c62a0b0e" />
-<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/53f6ff0c-c63b-439d-a426-f9e4d2b82c78" />
-
-
-</details>
-
-
-- **What does it sort?** Accepts boxes and items. If a secondary input is added, is capable of sorting full boxes without unloading them. 544 chest hall items, 90 bulk items, 10 MIS categories holding up to 54 item types each.
-- **Sorting speed:** up to 8x hopper speed - (72000 items/hour) unloading shulker boxes in parallel.
-- **Size:** 114x101x109 - 93156 blocks
-- **Extra features:** Unstackable sorting, chunkloading, crafting station, furnace array, micro farms, big control panel, possibility to chunkload with a bot for use in the End dimension, many safety features.
-- **testing and known issues:** No known issues. Some components used are functional but not up to date (unstackable sorter, parallel unloader, MIS, mixed loaders used for overflow) Fully tested and reviewed by an Archive Curator. As chosen by the creator, there isn't a player-accessible input to sort full boxes without unloading them.
-- [**Archive post with download**](https://discord.com/channels/748542142347083868/833152072618606652/1083907230023295066)
-
 ## [1.20+] Yams v2
 by Etikle, basil, skyzy
 
@@ -394,6 +363,39 @@ UI:
 - [**Original post (16/07/2024)**](https://discord.com/channels/748542142347083868/749137424684285992/1262854684037611600)
 - [**Download link (latest update)**](https://www.mediafire.com/folder/vlg6rvssbth2q/YAMS)
 - [**Help thread**](https://discord.com/channels/748542142347083868/1182775318830907412)
+
+## [1.17+] Krebs' Main Storage System
+
+by Krebs
+
+A complete main storage system originarily made for Ingenium SMP
+
+<img width="2048" height="2048" alt="image" src="https://github.com/user-attachments/assets/c55b1008-54c1-4ecc-aead-c7910a6916e1" />
+
+<details>
+<summary>Picture gallery - click to expand</summary>
+
+input:
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/fb05add9-3e1a-4447-986a-4bfaf3d70b76" />
+
+UI:
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/d9eae6e1-9163-4785-a2e5-d10e3cbb6294" />
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/1c35cd44-f6b0-4f6e-8b1a-1ab3a2c15f89" />
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/b4c621c9-4b99-4165-be89-a957c62a0b0e" />
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/53f6ff0c-c63b-439d-a426-f9e4d2b82c78" />
+
+
+</details>
+
+
+- **What does it sort?** Accepts boxes and items. If a secondary input is added, is capable of sorting full boxes without unloading them. 544 chest hall items, 90 bulk items, 10 MIS categories holding up to 54 item types each.
+- **Sorting speed:** up to 8x hopper speed - (72000 items/hour) unloading shulker boxes in parallel.
+- **Size:** 114x101x109 - 93156 blocks
+- **Extra features:** Unstackable sorting, chunkloading, crafting station, furnace array, micro farms, big control panel, possibility to chunkload with a bot for use in the End dimension, many safety features.
+- **testing and known issues:** No known issues. Some components used are functional but not up to date (unstackable sorter, parallel unloader, MIS, mixed loaders used for overflow) Fully tested and reviewed by an Archive Curator. As chosen by the creator, there isn't a player-accessible input to sort full boxes without unloading them.
+- [**Archive post with download**](https://discord.com/channels/748542142347083868/833152072618606652/1083907230023295066)
+
+
 
 # Other/Advanced
 
