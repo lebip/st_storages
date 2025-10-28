@@ -320,7 +320,7 @@ UI:
 - **Sorting speed:** Up to 16x hopper speed (144000 items/hour)
 - **Size:** 128x47x68 - 43100 blocks
 - **Extra features:** Unstackable sorting, chunkloaders, small status indicators panel.
-- **testing and known issues:** No known major issues. Tested by the creators. Some rail placements can be tricky to build. The unsorted/overflow slice should be cleared before it fills up completely as it lacks protection.
+- **testing and known issues:** No known major issues. Tested by the creators. Some rail placements can be tricky to build. The unsorted/overflow slice should be cleared before it fills up completely as it lacks protection. The user should stick around until the chunkloading light turns on aftern inputting items and when sorting boxes directly into the bulk.
 - [**Original post (16/06/2024)**](https://discord.com/channels/748542142347083868/749137424684285992/1251974389088391259)
 - [**Download link (latest update)**](https://discord.com/channels/748542142347083868/1251974389088391259/1339736798930272266)
 - [**Youtube video**](https://www.youtube.com/watch?v=9eHcvMi7HUw)
