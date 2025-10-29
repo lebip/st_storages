@@ -203,7 +203,7 @@ The filters of the hybrid loaders are normal SS2 filters on the sides of the bui
 
 <img width="1920" height="1020" alt="2025-10-29_10 45 24" src="https://github.com/user-attachments/assets/30867425-b457-4ee7-a377-939b2a56f1ed" />
 
-The hopper next to ice must be set as shown. The iron nuggets are renamed items.
+The hopper next to ice must be set as shown, with at least a sample of the item in the first slot. The iron nuggets are renamed items.
 
 <img width="516" height="145" alt="2025-10-29_10 45 56" src="https://github.com/user-attachments/assets/bf0f3514-b003-4946-a84a-272d7445cec3" />
 
@@ -242,7 +242,7 @@ UI:
 <details>
 <summary>How to set the filters - click to expand</summary>
 
-The filters of the multi item sorter (double chests) and tho ones of the box loaders (hoppers next to ice) are on top of the building:
+The filters of the multi item sorter (double chests) and the ones of the box loaders (hoppers next to ice) are on top of the building:
 
 <img width="1920" height="1020" alt="2025-10-29_12 38 14" src="https://github.com/user-attachments/assets/54a9616f-06f3-4217-91c5-1b97379ec0a2" />
 
@@ -250,9 +250,7 @@ by default, the MIS chests are completely filled with either renamed blockers or
 
 <img width="516" height="406" alt="2025-10-29_10 47 50" src="https://github.com/user-attachments/assets/f50f30c8-8d37-42da-86b3-8cb1b26c518b" />
 
-The filters of the box loaders are normal SS3 filters.
-
-The filter hopper must be set as shown. The cacti are renamed items. Over time, up to 41 items will fill the first slot.
+The filters of the box loaders are normal SS3 filters. The filter hopper must be set as shown, with at least a sample of the item in the first slot. The cacti are renamed items. Over time, up to 41 items will fill the first slot.
 
 <img width="518" height="149" alt="2025-10-29_12 39 17" src="https://github.com/user-attachments/assets/90239967-5829-4bde-960b-49de5263598c" />
 
