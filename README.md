@@ -187,6 +187,29 @@ UI:
 
 </details>
 
+
+<details>
+<summary>How to set the filters - click to expand</summary>
+
+The filters of the multi item sorter are these chests on top:
+
+<img width="1920" height="1020" alt="2025-10-29_10 47 05" src="https://github.com/user-attachments/assets/e7efb869-aea2-493f-ac94-dfd224ed0f5a" />
+
+by default, the MIS chests are completely filled with either renamed blockers or unstackable items. To assign an item to the slice, replace one of the blockers with **two** samples of the item:
+
+<img width="516" height="406" alt="2025-10-29_10 47 50" src="https://github.com/user-attachments/assets/f50f30c8-8d37-42da-86b3-8cb1b26c518b" />
+
+The filters of the hybrid loaders are normal SS2 filters on the sides of the building:
+
+<img width="1920" height="1020" alt="2025-10-29_10 45 24" src="https://github.com/user-attachments/assets/30867425-b457-4ee7-a377-939b2a56f1ed" />
+
+The hopper next to ice must be set as shown. The iron nuggets are renamed items.
+
+<img width="516" height="145" alt="2025-10-29_10 45 56" src="https://github.com/user-attachments/assets/bf0f3514-b003-4946-a84a-272d7445cec3" />
+
+</details>
+
+
 - **What does it sort?** Sorts stackable items and unloads the contents of shulker boxes; each column or category (1-wide) can sort up to 54 item types. 32 categories; also sorts up to 32 item types into chests and shulker boxes.
 - **Sorting speed:** ~hopper speed - almost 9000 items/hour.
 - **Size:** 29x33x29 - 11499 blocks
