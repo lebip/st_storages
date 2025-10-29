@@ -289,7 +289,7 @@ UI:
 </details>
 
 
-- **What does it sort?** Sorts stackable items and unloads the contents of shulker boxes; each column or category (1-wide) can sort up to 50 item types. Up to 41 item types are sorted into shulker boxes. If a secondary input is added, can sort full boxes without unloading them. Sorts also some non-stackable items.
+- **What does it sort?** Sorts stackable items and unloads the contents of shulker boxes; each column or category (1-wide) can sort up to 50 item types. Up to 41 item types are sorted into shulker boxes. Has a setting to sort full boxes without unloading them. Sorts also some non-stackable items.
 - **Sorting speed:** up to 9,7x hopper speed under optimal conditions, averaging at 4x hopper speed.
 - **Size:** 66x39x58 - 40679 blocks (decorated version); 47x28x45 - 15052 blocks (without decoration)
 - **Extra features:** Chunkloaders and unstackable sorter included.
