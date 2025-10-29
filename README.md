@@ -237,7 +237,24 @@ UI:
 <img width="1920" height="1020" alt="2025-10-23_19 31 57" src="https://github.com/user-attachments/assets/2cfb7feb-2dc8-4605-bad3-1882feafefdd" />
 <img width="1920" height="1020" alt="2025-10-23_19 32 08" src="https://github.com/user-attachments/assets/2f1349ad-60a7-4052-ad11-7308e24d643b" />
 
+</details>
 
+<details>
+<summary>How to set the filters - click to expand</summary>
+
+The filters of the multi item sorter (double chests) and tho ones of the box loaders (hoppers next to ice) are on top of the building:
+
+<img width="1920" height="1020" alt="2025-10-29_12 38 14" src="https://github.com/user-attachments/assets/54a9616f-06f3-4217-91c5-1b97379ec0a2" />
+
+by default, the MIS chests are completely filled with either renamed blockers or unstackable items. To assign an item to the slice, replace one of the blockers with **two** samples of the item:
+
+<img width="516" height="406" alt="2025-10-29_10 47 50" src="https://github.com/user-attachments/assets/f50f30c8-8d37-42da-86b3-8cb1b26c518b" />
+
+The filters of the box loaders are normal SS3 filters.
+
+The filter hopper must be set as shown. The cacti are renamed items. Over time, up to 41 items will fill the first slot.
+
+<img width="518" height="149" alt="2025-10-29_12 39 17" src="https://github.com/user-attachments/assets/90239967-5829-4bde-960b-49de5263598c" />
 
 </details>
 
