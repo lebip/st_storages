@@ -128,7 +128,7 @@ A barebones multi item sorter using hopper carts.
 <details>
 <summary>How to set the filters - click to expand</summary>
 
-The filters of this system are these chests, also called whitelisters.
+The filters (also called whitelisters) of this system are these chests:
 
 <img width="1920" height="1020" alt="2025-10-25_18 42 21" src="https://github.com/user-attachments/assets/51ec84a4-23dc-4d62-83dc-e7d0350cc6af" />
 
@@ -284,6 +284,50 @@ UI:
 <img width="1920" height="1020" alt="2025-10-23_19 33 17" src="https://github.com/user-attachments/assets/9ed9cb46-a39d-4322-af50-b13aa8411f8e" />
 <img width="1920" height="1020" alt="2025-10-23_19 33 52" src="https://github.com/user-attachments/assets/f449eedd-b9ee-45a7-8b93-ffdc9a777d8d" />
 
+</details>
+
+<details>
+<summary>How to set the filters - click to expand</summary>
+
+The filters (also called whitelisters) of the MIS are the bottom chests under the floor shown here:
+
+<img width="1920" height="1020" alt="2025-10-29_15 18 24" src="https://github.com/user-attachments/assets/9841f62e-de3c-405f-9811-ebd5a7b152e1" />
+
+by default, the chest has three unstackables/full stacks and 55 64-stackable renamed items (which must never be put in the input):
+
+<img width="511" height="408" alt="2025-10-25_18 04 25" src="https://github.com/user-attachments/assets/c369ee97-7be0-4769-a53e-f10aef737981" />
+
+To add an item, place one sample in the chest and remove one of the renamed items:
+
+<img width="519" height="399" alt="2025-10-25_18 04 30" src="https://github.com/user-attachments/assets/e5a156de-d5fd-433f-ba6d-24107f665231" />
+
+To add items that only stack up to 16, remove 4 renamed items for each 16-stackable added to the chest:
+
+<img width="518" height="411" alt="2025-10-25_18 04 37" src="https://github.com/user-attachments/assets/dd4eefe8-a2ae-48e0-a5c8-ef5147a37dd3" />
+
+The renamed items and the full stacks/unstackable items can be placed in different ways, there's no difference as long as the number is correct:
+
+<img width="519" height="411" alt="2025-10-25_18 44 48" src="https://github.com/user-attachments/assets/55c11e53-8531-4646-8a02-fe996d84c8a1" /> <img width="519" height="411" alt="2025-10-25_18 45 59" src="https://github.com/user-attachments/assets/9ff76d98-cbe2-4769-b0af-62d27b6a5c2c" /> <img width="514" height="405" alt="2025-10-25_18 45 50" src="https://github.com/user-attachments/assets/de65f669-e044-4f38-9c5d-6c3cd6052f98" />
+
+One whitelister at the end of the hall controls which items are assigned to the box loaders for the bulk section:
+
+<img width="516" height="373" alt="2025-10-29_15 18 43" src="https://github.com/user-attachments/assets/5fde734a-8362-4c74-a53f-97b53e60a241" />
+
+To assign an item to bulk, you have to assign it three times: Bulk whitelister chests, box loaders, and box sorters. The box loaders have **2** filters for each item:
+
+<img width="1920" height="1020" alt="2025-10-29_15 20 10" src="https://github.com/user-attachments/assets/2ec5eee4-f4af-43df-a0d5-0c5ea44ae1ad" />
+
+The filtering hoppers can be set as shown, with iron nuggets being renamed items. 1-18-1-1-1, 2-17-1-1-1 and 3-16-1-1-1 are all possible configuration. Remember to assign 2 filters next to each other to the same item, and shown in the litematic file.
+
+<img width="516" height="145" alt="2025-10-29_10 45 56" src="https://github.com/user-attachments/assets/dce2e04d-ccec-4542-ab64-9c9f31dd954e" />
+
+The filters of the box sorters are the hoppers visible here:
+
+<img width="1920" height="1020" alt="2025-10-29_15 19 11" src="https://github.com/user-attachments/assets/3bbee34a-10cc-4c9f-be7c-58aaa5dc65a1" />
+
+Each hopper must be filled with 1 sample of the item you want to sort into the corresponding slice and 4 blockers. Shulker boxes are preferred because they can't be inserted inside shulker boxes under any circumstance, making the filter more resistant. For unassigned slices, block all the slots.
+
+<img width="516" height="142" alt="2025-10-29_15 19 52" src="https://github.com/user-attachments/assets/6a699d23-6c30-48de-aeef-a2d23bab971d" />
 
 
 </details>
