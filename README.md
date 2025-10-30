@@ -78,7 +78,7 @@ The hopper cart needs to be filled with 4 non stackable items, leaving the last 
 - **Extra features:** none, it just sorts.
 - **testing and known issues:** No known issues. The world download has [some artifacts](https://discord.com/channels/748542142347083868/1151464188787576853/1353796836342632579) . Tested by the creators. No chunkloading included.
 - [**Original post (13/09/2023)**](https://discord.com/channels/748542142347083868/749137424684285992/1151464188787576853)
-- [**Download link (latest update)**](https://discord.com/channels/748542142347083868/1151464188787576853/1342278082383581245)
+- [**Download link (latest update)**](https://discord.com/channels/748542142347083868/1151464188787576853/1433592127530471425)
 - [**Youtube video**](https://www.youtube.com/watch?v=DnrAoKd8ZOc)
 - [**Help thread:**](https://discord.com/channels/748542142347083868/1291785785707856026/1291785785707856026)
 
