@@ -41,7 +41,7 @@ UI:
 <details>
 <summary>How to set the filters - click to expand</summary>
 
-The filters of this system are these chests, also called whitelisters. Depending on the version chosen, barrels are used in the same way:
+The filters (also called whitelisters) of this system are these chests. Depending on the version chosen, barrels are used in the same way:
 
 <img width="1920" height="1020" alt="2025-10-25_18 03 12" src="https://github.com/user-attachments/assets/dde16924-c9ee-4d6e-8a62-30d025af8bea" />
 
@@ -81,6 +81,53 @@ The hopper cart needs to be filled with 4 non stackable items, leaving the last 
 - [**Download link (latest update)**](https://discord.com/channels/748542142347083868/1151464188787576853/1433592127530471425)
 - [**Youtube video**](https://www.youtube.com/watch?v=DnrAoKd8ZOc)
 - [**Help thread:**](https://discord.com/channels/748542142347083868/1291785785707856026/1291785785707856026)
+
+## [1.20+] B-MIS
+
+by Borborad13
+
+A cart categorizer with the chests arranged on three layers on top of each other.
+
+<img width="824" height="857" alt="area_render_8_" src="https://github.com/user-attachments/assets/e577d7af-4f02-4934-8dfc-e0bb319a8a74" />
+
+<details>
+<summary>How to set the filters - click to expand</summary>
+
+The filters (also called whitelisters) of this system are these chests on the back of the building:
+
+<img width="1920" height="1020" alt="2025-10-31_13 55 23" src="https://github.com/user-attachments/assets/dd1694fc-5528-4292-9b45-1d5c689f6c8c" />
+
+by default, the chest has three unstackables/full stacks and 55 64-stackable renamed items (which must never be put in the input):
+
+<img width="511" height="408" alt="2025-10-25_18 04 25" src="https://github.com/user-attachments/assets/c369ee97-7be0-4769-a53e-f10aef737981" />
+
+To add an item, place one sample in the chest and remove one of the renamed items:
+
+<img width="519" height="399" alt="2025-10-25_18 04 30" src="https://github.com/user-attachments/assets/e5a156de-d5fd-433f-ba6d-24107f665231" />
+
+To add items that only stack up to 16, remove 4 renamed items for each 16-stackable added to the chest:
+
+<img width="518" height="411" alt="2025-10-25_18 04 37" src="https://github.com/user-attachments/assets/dd4eefe8-a2ae-48e0-a5c8-ef5147a37dd3" />
+
+The renamed items and the full stacks/unstackable items can be placed in different ways, there's no difference as long as the number is correct:
+
+<img width="519" height="411" alt="2025-10-25_18 44 48" src="https://github.com/user-attachments/assets/55c11e53-8531-4646-8a02-fe996d84c8a1" /> <img width="519" height="411" alt="2025-10-25_18 45 59" src="https://github.com/user-attachments/assets/9ff76d98-cbe2-4769-b0af-62d27b6a5c2c" /> <img width="514" height="405" alt="2025-10-25_18 45 50" src="https://github.com/user-attachments/assets/de65f669-e044-4f38-9c5d-6c3cd6052f98" />
+
+**Remember to never add the same item to multiple slices.**
+
+The hopper cart needs to be filled with 0-19-1-1-1 64-stackable renamed items, **different from the ones used in the whitelisters**:
+
+<img width="512" height="116" alt="2025-10-31_13 58 21" src="https://github.com/user-attachments/assets/7a42d028-5fe2-4abc-85bd-8b9512bf2fe2" />
+
+</details>
+
+- **What does it sort?** Sorts only stackable items (no shulker box unloader) into three rows of chests; each category (1-wide) can hold up to 50 item types depending on the version chosen.
+- **Sorting speed:** ~1/3 hopper speed - 3000 items/hour.
+- **Size:** 16x18x16 - 2322 blocks (smaller version) 
+- **Extra features:** none, it just sorts.
+- **testing and known issues:** No known issues. Tested by the creator. It's an extremely simple system that's more likely to resist chunk unloading events compared to more complex ones, however any claim about complete unload proofing is not to be trusted.
+- [**Download link (latest update) including additional info and screenshots**](https://discord.com/channels/748542142347083868/1142131464893370429/1145111266260684971)
+- [**Youtube video**](https://youtu.be/gfm1fbWiZ5I?si=HaXudep_92co71a5)
 
 ## [1.16+] Simple multi-item sorter
 
