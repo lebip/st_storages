@@ -86,7 +86,7 @@ The hopper cart needs to be filled with 4 non stackable items, leaving the last 
 
 by Borborad13
 
-A cart categorizer with the chests arranged on three layers on top of each other.
+A cart categorizer with the chests arranged in three layers on top of each other.
 
 <img width="824" height="857" alt="area_render_8_" src="https://github.com/user-attachments/assets/e577d7af-4f02-4934-8dfc-e0bb319a8a74" />
 
