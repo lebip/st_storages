@@ -125,7 +125,7 @@ The hopper cart needs to be filled with 0-19-1-1-1 64-stackable renamed items, *
 - **Sorting speed:** ~1/3 hopper speed - 3000 items/hour.
 - **Size:** 16x18x16 - 2322 blocks (smaller version) 
 - **Extra features:** none, it just sorts.
-- **testing and known issues:** No known issues. Tested by the creator. It's an extremely simple system that's more likely to resist chunk unloading events compared to more complex ones, however any claim about complete unload proofing is not to be trusted.
+- **testing and known issues:** No known major issues. Tested by the creator. It's an extremely simple system that's more likely to resist chunk unloading events compared to more complex ones, however any claim about complete unload proofing is not to be trusted. The overflow/unsorted section should be cleared before it fills entirely as it lacks protection.
 - [**Download link (latest update) including additional info and screenshots**](https://discord.com/channels/748542142347083868/1142131464893370429/1145111266260684971)
 - [**Youtube video**](https://youtu.be/gfm1fbWiZ5I?si=HaXudep_92co71a5)
 
