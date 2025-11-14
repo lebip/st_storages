@@ -366,7 +366,7 @@ To assign an item to bulk, you have to assign it three times: Bulk whitelister c
 
 <img width="1920" height="1020" alt="2025-10-29_15 20 10" src="https://github.com/user-attachments/assets/2ec5eee4-f4af-43df-a0d5-0c5ea44ae1ad" />
 
-The filtering hoppers can be set as shown, with iron nuggets being renamed items. 1-18-1-1-1, 2-17-1-1-1 and 3-16-1-1-1 are all possible configuration. Remember to assign 2 filters next to each other to the same item, as shown in the litematic file.
+The filtering hoppers can be set as shown, with iron nuggets being renamed items. 1-18-1-1-1, 2-17-1-1-1 and 3-16-1-1-1 are all possible configurations. Remember to assign 2 filters next to each other to the same item, as shown in the litematic file.
 
 <img width="516" height="145" alt="2025-10-29_10 45 56" src="https://github.com/user-attachments/assets/dce2e04d-ccec-4542-ab64-9c9f31dd954e" />
 
